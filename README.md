@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NeladriProbal
+- 👋 Hi, I’m @NeeladriProbal
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Data Structure 
 - 💞️ I’m looking to collaborate on ...
